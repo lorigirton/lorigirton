@@ -1,29 +1,15 @@
-### Hi there, I'm Lori 👋
+<h2>Hi there, I'm Lori👋</h2>
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: lorigirton@outlook.com
-- ⚡ Fun fact: I am learning to crochet 🧶 in my free time.
-- 🎉 Celebration: I recently graduated from UNC Data Analytics Bootcamp
--  🎯 My goal:
--  📌
--  📎
--  ⭐
+Data analyst with experience in educational leadership and a special interest in healthcare. I'm passionate about utilizing Python to extract, transform, and load data into a SQL database. Additionally, I enjoy creating impactful visuals using Python libraries and/or Tableau for data analysis and visualization."
 
--  <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+Check out my [portfolio](https://sites.google.com/view/lorigirton/portfolio) for examples of my work!
+
+<!--h1 without bottom border-->
+<p align="center"><h2>Technologies That I Know</h2></p>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
