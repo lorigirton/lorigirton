@@ -4,7 +4,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-Data analyst with experience in educational leadership and a special interest in healthcare. I'm passionate about utilizing Python to extract, transform, and load data into a SQL database. Additionally, I enjoy creating impactful visuals using Python libraries and/or Tableau for data analysis and visualization."
+Data analyst with experience in educational leadership and a special interest in healthcare. I'm passionate about utilizing Python to extract, transform, and load data into a SQL database. Additionally, I enjoy creating impactful visuals using Python libraries and/or Tableau for data analysis and visualization.
 
 Check out my [portfolio](https://sites.google.com/view/lorigirton/portfolio) for examples of my work!
 
